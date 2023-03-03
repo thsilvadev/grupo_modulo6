@@ -1,0 +1,18 @@
+.teste {
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+.teste:hover {
+        background: rgba(205, 196, 23, 0.15);
+}
+
+.teste:active {
+    background: #39A2DB;
+}
+
+.text {
+    color: red;
+}
